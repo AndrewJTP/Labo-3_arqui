@@ -1,0 +1,16 @@
+D:\arqui_soft\patrones de diseño\bin\Debug\net5.0\patrones de diseño.exe
+D:\arqui_soft\patrones de diseño\bin\Debug\net5.0\patrones de diseño.deps.json
+D:\arqui_soft\patrones de diseño\bin\Debug\net5.0\patrones de diseño.runtimeconfig.json
+D:\arqui_soft\patrones de diseño\bin\Debug\net5.0\patrones de diseño.runtimeconfig.dev.json
+D:\arqui_soft\patrones de diseño\bin\Debug\net5.0\patrones de diseño.dll
+D:\arqui_soft\patrones de diseño\bin\Debug\net5.0\ref\patrones de diseño.dll
+D:\arqui_soft\patrones de diseño\bin\Debug\net5.0\patrones de diseño.pdb
+D:\arqui_soft\patrones de diseño\obj\Debug\net5.0\patrones de diseño.csprojAssemblyReference.cache
+D:\arqui_soft\patrones de diseño\obj\Debug\net5.0\patrones de diseño.GeneratedMSBuildEditorConfig.editorconfig
+D:\arqui_soft\patrones de diseño\obj\Debug\net5.0\patrones de diseño.AssemblyInfoInputs.cache
+D:\arqui_soft\patrones de diseño\obj\Debug\net5.0\patrones de diseño.AssemblyInfo.cs
+D:\arqui_soft\patrones de diseño\obj\Debug\net5.0\patrones de diseño.csproj.CoreCompileInputs.cache
+D:\arqui_soft\patrones de diseño\obj\Debug\net5.0\patrones de diseño.dll
+D:\arqui_soft\patrones de diseño\obj\Debug\net5.0\ref\patrones de diseño.dll
+D:\arqui_soft\patrones de diseño\obj\Debug\net5.0\patrones de diseño.pdb
+D:\arqui_soft\patrones de diseño\obj\Debug\net5.0\patrones de diseño.genruntimeconfig.cache

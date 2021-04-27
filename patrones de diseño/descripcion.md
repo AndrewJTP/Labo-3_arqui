@@ -1,0 +1,2 @@
+Una cadena de pizzas abre sucursales cada vez en nuevos paises
+por lo que no seria adecuado que cada vez este diciendo como hacer las pizzas a cada una de ellas, ahi entraria el trabajo de las sucursales quienes se encargarian de crear cada pizza por su cuenta y si abren nuevas sucursales en otros paises simplemente esos nuevos nuevos se encargarian de crearlas
